@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phiniqq724&show_icons=true&theme=dark&locale=en&layout=compact" alt="phiniqq724" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phiniqq724&show_icons=true&locale=en" alt="phiniqq724" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phiniqq724&show_icons=true&theme=dark&locale=en" alt="phiniqq724" /></p>
